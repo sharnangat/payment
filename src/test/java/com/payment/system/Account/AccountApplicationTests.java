@@ -3,7 +3,7 @@ package com.payment.system.Account;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class AccountApplicationTests {
 
 	@Test
