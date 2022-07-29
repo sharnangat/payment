@@ -9,6 +9,17 @@ public class DepartmentController {
 	
 
 	
+//Post
+	
+	
+//GET
+	
+
+//PUT
+	
+
+	
+//DELETE
 	
 	
 
